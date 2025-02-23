@@ -22,3 +22,7 @@ O site foi construído utilizando tecnologias modernas para garantir **performan
 - **JavaScript** – Dinamização da interface e interações do usuário.  
 
 Além disso, utilizamos boas práticas de **acessibilidade**, **SEO** e **otimização de desempenho** para garantir uma melhor experiência ao usuário.  
+
+## Link Futuramente:
+
+## www.link.com
